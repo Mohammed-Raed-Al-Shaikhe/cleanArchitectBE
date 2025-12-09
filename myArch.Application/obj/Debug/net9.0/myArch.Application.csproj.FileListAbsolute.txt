@@ -1,0 +1,17 @@
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Application.deps.json
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Application.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Application.pdb
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Domain.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Domain.pdb
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.csproj.AssemblyReference.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.AssemblyInfoInputs.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.AssemblyInfo.cs
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.A.6D88E5B5.Up2Date
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\refint\myArch.Application.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.pdb
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\ref\myArch.Application.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\bin\Debug\net9.0\myArch.Application.runtimeconfig.json
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Application\obj\Debug\net9.0\myArch.Application.genruntimeconfig.cache

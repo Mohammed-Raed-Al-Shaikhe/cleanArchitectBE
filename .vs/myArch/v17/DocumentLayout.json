@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77BA8BD-06ED-4596-8358-3AF38FF1C1B8}|myArch.Infrastructure\\myArch.Infrastructure.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77BA8BD-06ED-4596-8358-3AF38FF1C1B8}|myArch.Infrastructure\\myArch.Infrastructure.csproj|solutionrelative:myarch.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|solutionrelative:myarch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4FBD34-A75E-4EF0-A7E2-E6A82BF82FA6}|myArch.Application\\myArch.Application.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4FBD34-A75E-4EF0-A7E2-E6A82BF82FA6}|myArch.Application\\myArch.Application.csproj|solutionrelative:myarch.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|solutionrelative:myarch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE1AE6-F0D6-45BC-A1AC-B68668617AE0}|myArch.Domain\\myArch.Domain.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE1AE6-F0D6-45BC-A1AC-B68668617AE0}|myArch.Domain\\myArch.Domain.csproj|solutionrelative:myarch.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E954A876-7BDA-413D-9A27-F0E7C74E4E42}|myArch.API\\myArch.API.csproj|solutionrelative:myarch.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4FBD34-A75E-4EF0-A7E2-E6A82BF82FA6}|myArch.Application\\myArch.Application.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4FBD34-A75E-4EF0-A7E2-E6A82BF82FA6}|myArch.Application\\myArch.Application.csproj|solutionrelative:myarch.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77BA8BD-06ED-4596-8358-3AF38FF1C1B8}|myArch.Infrastructure\\myArch.Infrastructure.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.infrastructure\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77BA8BD-06ED-4596-8358-3AF38FF1C1B8}|myArch.Infrastructure\\myArch.Infrastructure.csproj|solutionrelative:myarch.infrastructure\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE1AE6-F0D6-45BC-A1AC-B68668617AE0}|myArch.Domain\\myArch.Domain.csproj|c:\\users\\96279\\onedrive\\desktop\\clean-arch\\myarch.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE1AE6-F0D6-45BC-A1AC-B68668617AE0}|myArch.Domain\\myArch.Domain.csproj|solutionrelative:myarch.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\Program.cs",
+              "RelativeDocumentMoniker": "myArch.API\\Program.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\Program.cs",
+              "RelativeToolTip": "myArch.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:15:15.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "myArch.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Infrastructure\\Context\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "myArch.Infrastructure\\Context\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:09:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "myArch.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "myArch.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:08:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Application\\services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "myArch.Application\\services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Application\\services\\CustomerService.cs",
+              "RelativeToolTip": "myArch.Application\\services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:05:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\appsettings.json",
+              "RelativeDocumentMoniker": "myArch.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\appsettings.json",
+              "RelativeToolTip": "myArch.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T17:02:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Infrastructure\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "myArch.Infrastructure\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Infrastructure\\CustomerRepository.cs",
+              "RelativeToolTip": "myArch.Infrastructure\\CustomerRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:11:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "myArch.API\\controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.API\\controllers\\CustomerController.cs",
+              "RelativeToolTip": "myArch.API\\controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:02:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Application\\interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "myArch.Application\\interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Application\\interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "myArch.Application\\interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:03:32.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "myArch.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\96279\\OneDrive\\Desktop\\clean-arch\\myArch.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "myArch.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:01:23.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

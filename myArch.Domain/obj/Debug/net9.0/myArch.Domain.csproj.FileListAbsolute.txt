@@ -1,0 +1,14 @@
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\bin\Debug\net9.0\myArch.Domain.deps.json
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\bin\Debug\net9.0\myArch.Domain.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\bin\Debug\net9.0\myArch.Domain.pdb
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.AssemblyInfoInputs.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.AssemblyInfo.cs
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\refint\myArch.Domain.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.pdb
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\ref\myArch.Domain.dll
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\bin\Debug\net9.0\myArch.Domain.runtimeconfig.json
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.csproj.AssemblyReference.cache
+C:\Users\96279\OneDrive\Desktop\clean-arch\myArch.Domain\obj\Debug\net9.0\myArch.Domain.genruntimeconfig.cache
